@@ -11,7 +11,4 @@ A simple calculator app built with HTML, CSS, and JavaScript.
 A personal portfolio website to showcase my work and skills.
 
 3. Landing Page:
-
-
-
-
+A landing page for my product- hair oil : Pure Essence.
